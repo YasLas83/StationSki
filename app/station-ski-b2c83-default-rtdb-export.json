@@ -1,0 +1,330 @@
+{
+  "comments": {
+    "UserID": "",
+    "date": "",
+    "text": ""
+  },
+  "lifts": {
+    "Bouticari": {
+      "paths": {
+        "Bouticari Bleu": "",
+        "Bouticari Rouge": "",
+        "Bouticari vert": "",
+        "Le Forest": ""
+      },
+      "status": false,
+      "theSlopes": {
+        "Bouticari Bleu": {
+          "name": "Bouticari Bleu"
+        },
+        "Bouticari Vert": {
+          "name": "Bouticari Vert"
+        },
+        "La Rouge Bouticari": {
+          "name": "La Rouge Bouticari"
+        },
+        "Le Forest": {
+          "name": "Le Forest"
+        }
+      }
+    },
+    "La Burge": {
+      "name": "La Burge",
+      "paths": {
+        "Le Chamois": "",
+        "Les Jockeys": "",
+        "s du chamois": ""
+      },
+      "status": false,
+      "theSlopes": {
+        "Le Chamois": {
+          "name": "Le Chamois"
+        },
+        "Les Jockeys": {
+          "name": "Les Jockeys"
+        },
+        "S Du Chamois": {
+          "name": "S Du Chamois"
+        }
+      }
+    },
+    "La Troika": {
+      "name": "La Troika",
+      "paths": {
+        "La Monthery": ""
+      },
+      "status": false,
+      "theSlopes": {
+        "Les Ramiers": {
+          "name": "Les Ramiers"
+        }
+      }
+    },
+    "Le Beauregard": {
+      "TheSlopes": {
+        "La Mandarine": {
+          "name": "La Mandarine"
+        },
+        "Le Lievre": {
+          "name": "Le Lievre"
+        },
+        "Le Tetras": {
+          "name": "Le Tetras"
+        },
+        "Les Lampions": {
+          "name": "Les Lampions"
+        },
+        "name": "La Mandarine"
+      },
+      "name": "Le Beauregard",
+      "paths": {
+        "Le Lièvre": "",
+        "Les Lampions": ""
+      },
+      "status": false
+    },
+    "Le Beauregard 2": {
+      "name": "Le Beauregard 2",
+      "paths": {
+        "L'Ecureuil": "",
+        "Le Gourq": ""
+      },
+      "status": true,
+      "theSlopes": {
+        "L'Ecureuil": {
+          "name": "L'Ecureuil"
+        },
+        "Le Gourq": {
+          "name": "Le Gourq"
+        }
+      }
+    },
+    "Le Grand Serre": {
+      "name": "Le Grand Serre",
+      "paths": {
+        "La Draye": ""
+      },
+      "status": false,
+      "theSlopes": {
+        "La Draye": {
+          "name": "La Draye"
+        },
+        "La Gerabio": {
+          "name": "La Gerabio"
+        },
+        "Les Sangnieres": {
+          "name": "Les Sangnieres"
+        }
+      }
+    },
+    "Le Moulin": {
+      "name": "Le Moulin",
+      "status": false,
+      "theSlopes": {
+        "Les Nbettes": {
+          "name": "Les Nbettes"
+        },
+        "Les Rhodos": {
+          "name": "Les Rhodos"
+        }
+      }
+    },
+    "Les Amoureux": {
+      "name": "Les Amoureux",
+      "status": false,
+      "theSlopes": {
+        "Les Casses": {
+          "name": "Les Casses"
+        }
+      }
+    },
+    "Les Cassettes": {
+      "name": "Les Cassettes",
+      "status": false,
+      "theSlopes": {
+        "Barrigart": {
+          "name": "Barrigart"
+        },
+        "L'Inglin": {
+          "name": "L'Inglin"
+        },
+        "L'Ousselat": {
+          "name": "L'Ousselat"
+        },
+        "Pre Mean": {
+          "name": "Pre Mean"
+        }
+      }
+    },
+    "Les Torres": {
+      "name": "Les Torres",
+      "status": false,
+      "theSlopes": {
+        "Les Bambinos": {
+          "name": "Les Bambinos"
+        }
+      }
+    },
+    "Ste Marie Madeleine": {
+      "name": "Ste Marie Madeleine",
+      "status": false,
+      "theSlopes": {
+        "L'Arbre": {
+          "name": "L'Arbre"
+        },
+        "Les Clouzeaux": {
+          "name": "Les Clouzeaux"
+        }
+      }
+    }
+  },
+  "slopes": {
+    "Bouticari Bleu": {
+      "color": "blue",
+      "name": "Bouticari Bleu",
+      "status": true
+    },
+    "Bouticari Vert": {
+      "color": "green",
+      "name": "Bouticari Vert",
+      "status": true
+    },
+    "Jonction Basse": {
+      "color": "green",
+      "name": "Jonction Basse",
+      "status": true
+    },
+    "L'Arbre": {
+      "color": "blue",
+      "name": "L'Arbre",
+      "status": true
+    },
+    "L'Ecureuil": {
+      "color": "red",
+      "name": "L'Ecureuil",
+      "status": true
+    },
+    "L'Inglin": {
+      "color": "blue",
+      "name": "L'Inglin",
+      "status": true
+    },
+    "L'Ousselat": {
+      "color": "red",
+      "name": "L'Ousselat",
+      "status": true
+    },
+    "La Draye": {
+      "color": "red",
+      "name": "La Draye",
+      "status": true
+    },
+    "La Gerabio": {
+      "color": "blue",
+      "name": "La Gerabio",
+      "status": true
+    },
+    "La Mandarine": {
+      "color": "red",
+      "name": "La Mandarine",
+      "status": true
+    },
+    "La Monthery": {
+      "color": "green",
+      "name": "La Monthery",
+      "status": true
+    },
+    "La Rouge Bouticari": {
+      "color": "red",
+      "name": "La Rouge Bouticari",
+      "status": true
+    },
+    "Le Chamois": {
+      "color": "red",
+      "name": "Le Chamois",
+      "status": true
+    },
+    "Le Forest": {
+      "color": "green",
+      "name": "Le Forest",
+      "status": true
+    },
+    "Le Gourq": {
+      "color": "blue",
+      "name": "Le Gourq",
+      "status": true
+    },
+    "Le Lievre": {
+      "color": "black",
+      "name": "Le Lievre",
+      "status": true
+    },
+    "Le Tetras": {
+      "color": "black",
+      "name": "Le Tetras",
+      "status": true
+    },
+    "Les Bambinos": {
+      "color": "green",
+      "name": "Les Bambinos",
+      "status": true
+    },
+    "Les Casses": {
+      "color": "blue",
+      "name": "Les Casses",
+      "status": true
+    },
+    "Les Clouzeaux": {
+      "color": "blue",
+      "name": "Les Clouzeaux",
+      "status": true
+    },
+    "Les Jockeys": {
+      "color": "red",
+      "name": "Les Jockeys",
+      "status": true
+    },
+    "Les Lampions": {
+      "color": "blue",
+      "name": "Les Lampions",
+      "status": true
+    },
+    "Les Nbettes": {
+      "color": "blue",
+      "name ": "Les Nbettes",
+      "status": true
+    },
+    "Les Ramiers": {
+      "color": "green",
+      "name": "Les Ramiers",
+      "status": true
+    },
+    "Les Rhodos": {
+      "color": "blue",
+      "name ": "Les Rhodos",
+      "status": true
+    },
+    "Les Sagnières": {
+      "color": "red",
+      "name": "Les Sagnières",
+      "status": true
+    },
+    "Pre Mean": {
+      "color": "red",
+      "name": "Pre Mean",
+      "status": true
+    },
+    "S du Chamois": {
+      "color": "blue",
+      "name": "S du Chamois",
+      "status": true
+    }
+  },
+  "users": {
+    "Email": "",
+    "FirstName": "",
+    "LastName": "",
+    "Password": "",
+    "UserID": ""
+  }
+}
